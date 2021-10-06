@@ -4,11 +4,19 @@
 ## I'm a Software Engineer @ Epam Systems !
 
 - I enjoy building Full Stack Web Development Projects.
-- Mern Stack and Spring Boot
-- I am always looking to collaborate!
-- I enjoy Competitive Programming
-- ⚡ Fun fact: I do Music Production is spare time
+- Mern Stack & Spring Boot.
+- I am always looking to collaborate!           
+- I enjoy Competitive Programming.
+- ⚡ Fun fact: I do Music Production is spare time!
 
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][hackerrank]
+
+
+<br />
 
 ### Languages and Tools:
 
@@ -29,6 +37,11 @@
 <br />
 
 ---
+
+[linkedin]: https://linkedin.com/in/kuriocity
+[leetcode]: https://leetcode.com/kuriocity/
+[hackerrank]: https://www.hackerrank.com/Kuriocity
+
 <!--
 **kuriocity/kuriocity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
