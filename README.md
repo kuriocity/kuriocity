@@ -1,13 +1,13 @@
 ### Hi there I am Abhishek 👋
 
 
-## I'm a Software Engineer @ Epam Systems !
+## I'm a Software Engineer @ Stanplus !
 
 - I enjoy building Full Stack Web Development Projects.
-- Mern Stack & Spring Boot.
-- I am always looking to collaborate!           
-- I enjoy Competitive Programming.
-- ⚡ Fun fact: I do Music Production is spare time!
+- Work on Mern Stack & Mean Stack but not limited to any technology.
+- I am always looking to collaborate with passionate minds!           
+- I enjoy Competitive Programming & Problem Solving.
+- ⚡ Fun fact: I do Music Production and play Piano in spare time!
 
 ### Connect with me:
 
