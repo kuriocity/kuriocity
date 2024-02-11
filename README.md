@@ -1,13 +1,13 @@
 ### Hi there I am Abhishek 👋
 
 
-## I'm a Software Engineer @ Stanplus !
+## I'm a Software Engineer @ Red Health !
 
 - I enjoy building Full Stack Web Development Projects.
 - Work on Mern Stack & Mean Stack but not limited to any technology.
 - I am always looking to collaborate with passionate minds!           
 - I enjoy Competitive Programming & Problem Solving.
-- ⚡ Fun fact: I do Music Production and play Piano in spare time!
+- ⚡ Fun fact: I do Music Production (Fl Studio) and play Piano in spare time!
 
 ### Connect with me:
 
