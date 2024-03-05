@@ -2,15 +2,15 @@
 *Backend Engineer Extraordinaire | Transforming Emergency Healthcare in India | Passionate Problem Solver*
 
 **Contact Information:**
-- Email: abhishek.pawarys@gmail.com
-- Phone: +919594948566
-- Location: Mumbai, India
-- LinkedIn: [linkedin.com/in/kuriocity](https://linkedin.com/in/kuriocity)
-- GitHub: [github.com/kuriocity](https://github.com/kuriocity)
+- 📧 Email: abhishek.pawarys@gmail.com
+- 📱 Phone: +919594948566
+- 📍 Location: Mumbai, India
+- 🔗 LinkedIn: [linkedin.com/in/kuriocity](https://linkedin.com/in/kuriocity)
+- 🐙 GitHub: [github.com/kuriocity](https://github.com/kuriocity)
 
 ---
 
-## TECHNICAL WIZARDRY IN ACTION
+## 💡 TECHNICAL WIZARDRY IN ACTION
 
 ### Software Engineer | Stanplus/Red Health | Bangalore | 02/2022 - Present
 
@@ -34,13 +34,13 @@
 
 ---
 
-## EDUCATION
+## 🎓 EDUCATION
 
 **B.E. Mumbai University | 2015 - 2019 | Mumbai**
 
 ---
 
-## SKILLS
+## 🔧 SKILLS
 
 - Java, Javascript, Node.js, Nest.js
 - React.js, Kafka, Pubsub, Serverless, Microservices, Elasticsearch, ELK Stack
@@ -50,7 +50,7 @@
 
 ---
 
-## CHRONICLES OF GLORY
+## 🏆 CHRONICLES OF GLORY
 
 - 6-star Golden Badge in Problem Solving on Hackerrank
 - 5-star Golden Badge in Java on Hackerrank
@@ -59,14 +59,14 @@
 
 ---
 
-## PROJECTS OF INGENUITY
+## 🚀 PROJECTS OF INGENUITY
 
 ### Polling App (MERN full stack)
 
 - A magnetic Polling Application utilizing the MERN stack for a dynamic and interactive user experience.
 - Implemented JWT for secure authorization and leveraged Nodemailer for efficient email services.
 
-[Application Live URL](#) | [GitHub Repository](#)
+[🚀 Application Live URL](#) | [🔗 GitHub Repository](#)
 
 ### Package Delivery Rover - Self Driving Car Prototype
 
@@ -74,7 +74,7 @@
 
 ---
 
-## CODING PROFILES
+## 🛠 CODING PROFILES
 
 - [Hackerrank](#)
 - [Github](#)
@@ -82,7 +82,7 @@
 
 ---
 
-## INTERESTS
+## 🌟 INTERESTS
 
 - Teaching/Mentoring
 - Chess
