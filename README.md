@@ -1,35 +1,62 @@
 # Hi, I'm Abhishek Pawar 👋
 
-Senior Software Engineer with a focus on building scalable backend systems and high-performance applications.
+> Senior Backend Engineer with 7+ years of experience building scalable, high-throughput systems and real-world transaction platforms.
 
-## 💼 What I Do
-- Build scalable systems handling high concurrency & real-world transactions
-- Design backend architectures (Node.js, SQL/NoSQL, distributed systems)
-- Work on end-to-end products — from APIs to production deployment
-- Experience with wallet systems, event tracing, and data pipelines
+---
+
+## 💼 Experience & Impact
+
+* Designed and built **wallet-to-wallet transaction systems** with OTP-based security, reducing fraud and unbilled flows significantly
+* Architected **high-concurrency backend services** handling large transaction volumes with strong consistency guarantees
+* Built **event tracing & observability systems** across microservices for debugging, monitoring, and analytics
+* Developed **config-driven LLM workflows** (RAG, embeddings, crawlers, ingestion pipelines) powering production use cases
+* Worked on **end-to-end system design** — APIs, data modeling, performance optimization, and production deployments
+
+---
+
+## 🧠 Core Strengths
+
+* Backend Architecture & System Design
+* Concurrency, Scaling & Performance Optimization
+* Distributed Systems & Data Flow Design
+* Database Design (SQL + NoSQL)
+* Debugging complex production issues
+
+---
 
 ## 🛠 Tech Stack
-**Backend:** Node.js, TypeScript, Express  
-**Frontend:** React  
-**Databases:** MySQL, MongoDB  
-**Systems:** Redis, Queues, Caching, Concurrency handling  
-**Tools:** Git, Docker (if applicable), VS Code  
 
-## ⚡ Notable Work
-- Built wallet-to-wallet transaction system with OTP security & fraud reduction
-- Designed event tracing system across microservices for observability
-- Worked on scalable architectures handling large transaction volumes
+**Languages:** JavaScript, TypeScript
+**Backend:** Node.js, Express
+**Databases:** MySQL, MongoDB, Redis
+**Systems:** Caching, Queues, Rate Limiting, Event-driven architecture
+**Frontend (working knowledge):** React
+**Tools:** Git, Docker (if used), VS Code
 
-## 📈 Problem Solving
-- Active in Data Structures & Algorithms
-- Strong focus on writing efficient, optimized code
+---
+
+## 🚀 Notable Systems
+
+* **Wallet Infrastructure:** Multi-entity balance tracking with dynamic ownership of outstanding amounts
+* **Tracing Platform:** Cross-service event tracking with filtering & observability dashboard
+* **LLM Pipelines:** Autonomous crawling + ingestion + RAG-based query systems
+
+---
+
+## 📈 Engineering Mindset
+
+* Focus on **writing systems that scale, not just code that works**
+* Prefer **data-driven debugging over guesswork**
+* Strong emphasis on **clean architecture & long-term maintainability**
+
+---
 
 ## 🎯 Currently
-- Exploring system design at scale
-- Improving performance & reliability of backend systems
 
+* Deepening expertise in **distributed systems & large-scale system design**
+* Exploring **high-performance backend patterns & infra design**
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
