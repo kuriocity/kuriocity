@@ -27,10 +27,15 @@
 ## 🛠 Tech Stack
 
 **Languages:** JavaScript, TypeScript
+
 **Backend:** Node.js, Express
+
 **Databases:** MySQL, MongoDB, Redis
+
 **Systems:** Caching, Queues, Rate Limiting, Event-driven architecture
+
 **Frontend (working knowledge):** React
+
 **Tools:** Git, Docker (if used), VS Code
 
 ---
