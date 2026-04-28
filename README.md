@@ -1,13 +1,33 @@
-### Hi there I am Abhishek 👋
+# Hi, I'm Abhishek Pawar 👋
 
+Senior Software Engineer with a focus on building scalable backend systems and high-performance applications.
 
-## I'm a Senior Software Engineer @ Edra Labs !
+## 💼 What I Do
+- Build scalable systems handling high concurrency & real-world transactions
+- Design backend architectures (Node.js, SQL/NoSQL, distributed systems)
+- Work on end-to-end products — from APIs to production deployment
+- Experience with wallet systems, event tracing, and data pipelines
 
-- I enjoy building Full Stack Web Development Projects.
-- Work on Mern Stack & Mean Stack but not limited to any technology.
-- I am always looking to collaborate with passionate minds!           
-- I enjoy Competitive Programming & Problem Solving.
-- ⚡ Fun fact: I do Music Production (Fl Studio) and play Piano in spare time!
+## 🛠 Tech Stack
+**Backend:** Node.js, TypeScript, Express  
+**Frontend:** React  
+**Databases:** MySQL, MongoDB  
+**Systems:** Redis, Queues, Caching, Concurrency handling  
+**Tools:** Git, Docker (if applicable), VS Code  
+
+## ⚡ Notable Work
+- Built wallet-to-wallet transaction system with OTP security & fraud reduction
+- Designed event tracing system across microservices for observability
+- Worked on scalable architectures handling large transaction volumes
+
+## 📈 Problem Solving
+- Active in Data Structures & Algorithms
+- Strong focus on writing efficient, optimized code
+
+## 🎯 Currently
+- Exploring system design at scale
+- Improving performance & reliability of backend systems
+
 
 ### Connect with me:
 
