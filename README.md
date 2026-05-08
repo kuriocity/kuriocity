@@ -36,7 +36,7 @@
 
 **Frontend (working knowledge):** React
 
-**Tools:** Git, Docker (if used), VS Code
+**Tools:** Git, Docker, VS Code
 
 ---
 
